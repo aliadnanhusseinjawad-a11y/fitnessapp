@@ -1,6 +1,8 @@
 {
-  "name": "رشاقة",
+  "name": "Remix: رشاقة",
   "description": "تطبيق متكامل لإنقاص الوزن 4 كغم في شهر مع وجبات تابعة لـ المطبخ العراقي دايت وتمارين يومية وميزان السعرات والماء",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
